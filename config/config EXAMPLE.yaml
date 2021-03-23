@@ -1,0 +1,17 @@
+####################################################################################
+#
+#    Azure Cognitive Services - Content Moderator
+# 
+####################################################################################
+content_moderator:
+  key: 7f214a3340604ab7
+  endpoint: https://content-moderator-EXAMPLE.cognitiveservices.azure.com/
+####################################################################################
+#
+#    Azure Cognitive Services - Text Analytics
+# 
+####################################################################################
+text_analytics:
+  key: 3206519e9e6c4b269
+  endpoint: https://text-EXAMPLE.cognitiveservices.azure.com/
+  api-version: v2.1
